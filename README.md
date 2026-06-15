@@ -13,6 +13,6 @@ I'm a 1st year B.Tech AI/ML student passionate about technology.
 - C Programming
 
 ## 📫 Connect with me
-- Email: rahul@gmail.com
+- Email: ashvikp02@gmail.com
 
-Testing[all ts by AI btw]
+## Testing[all ts by AI btw]
